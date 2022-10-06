@@ -1,4 +1,4 @@
-### Hey! <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" height='30'> 
+## Hey! <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" height='30'> 
 
 ### I'm Taylor Buckner,
 - A life-long learner.
