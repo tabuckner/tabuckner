@@ -5,7 +5,7 @@
 - A tenured Frontend and Web Technology nerd 🤓.
 - Passionate about Software Design System Architecture.
 - A compassionate and uplifting teammate and leader, with a proven track record of success.
-- A Long time Angular fanboy, and preacher of the Angular gospels.
+- A long time Angular fanboy, and preacher of the Angular gospels.
 
 <br />
 
